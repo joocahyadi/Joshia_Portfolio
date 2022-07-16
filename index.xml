@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Joshia Cahyadi</title>
+    <link>https://joocahyadi.github.io/Joshia_Portfolio/</link>
+    <description>Recent content in Welcome! on Joshia Cahyadi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://joocahyadi.github.io/Joshia_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3 (Personal): Recommendation System Based on Articles Content</title>
+      <link>https://joocahyadi.github.io/Joshia_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joocahyadi.github.io/Joshia_Portfolio/post/project-3/</guid>
+      <description>Table of Contents Introduction Libraries Preprocessing Term Frequency - Inverse Document Frequency (TF-IDF) Non-Negative Matrix Factorization The Recommendation System References Introduction The advanced progress in technology has significantly affect nowadays life, including our ways and considerations in choosing something. Usually, when we want to buy food, drinks, or any other item via an online application, we will get recommendations from the app that make us consider buying them. The feature that generates recommendations for us is called the recommendation system.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Analysis of the Indonesian Economy and Recommendations for Placement of UMKMs based on Geolocation and Social Media Sentiments in Jakarta</title>
+      <link>https://joocahyadi.github.io/Joshia_Portfolio/post/project-1/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joocahyadi.github.io/Joshia_Portfolio/post/project-1/</guid>
+      <description>The emergence of COVID-19 pandemic in early 2020, caused the Indonesian economy hit hard. With the pandemic lasting almost 2 years, it is necessary to know the current condition of the Indonesian economy in order to know the progress of Indonesia. In this project, we analyzed one of the main keys to the Indonesian economy, namely UMKM. We also keen to see the distribution of mapping and public opinion about UMKM in Jakarta.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: NFT Creator Recommendations &amp; Dashboard</title>
+      <link>https://joocahyadi.github.io/Joshia_Portfolio/post/project-2/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://joocahyadi.github.io/Joshia_Portfolio/post/project-2/</guid>
+      <description>Non-Fungible Token (NFT), one of the biggest phenomena in late 2021, has stormed the digital marketplace. The NFT&amp;rsquo;s phenomenon influenced various societies, especially artists and influencers. In addition to them, many organizations also started to create their original NFT projects and collections for many purposes, such as engaging their fans in this online era. Unfortunately, not everyone who started NFT projects has succeeded. Most of them failed to maintain and continue their NFT projects.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://joocahyadi.github.io/Joshia_Portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joocahyadi.github.io/Joshia_Portfolio/about/</guid>
+      <description>Hi! My name is Joshia Cahyadi. A final year mathematics student at Institut Teknologi Bandung with keen interest in data science, machine learning, and maths. Currently, I am interested in NLP and started to deepen my knowledge while also gaining experience in several data science related projects.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://joocahyadi.github.io/Joshia_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joocahyadi.github.io/Joshia_Portfolio/contact/</guid>
+      <description> You can reach me via: LinkedIn: https://www.linkedin.com/in/joshiacahyadi/ Github: https://github.com/joocahyadi </description>
+    </item>
+    
+  </channel>
+</rss>
